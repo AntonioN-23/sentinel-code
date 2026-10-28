@@ -1,0 +1,7 @@
+name = "sentinel-code"
+compatibility_date = "2026-10-28"
+pages_build_output_dir = "./public"
+
+[vars]
+# Ajusta este identificador a un modelo disponible en tu cuenta de Anthropic.
+ANTHROPIC_MODEL = "claude-3-5-haiku-20241022"
